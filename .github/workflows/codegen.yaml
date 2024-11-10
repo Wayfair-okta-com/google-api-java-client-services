@@ -4,7 +4,7 @@ on:
   - cron: '30 0-2 * * *'
   workflow_dispatch:
 
-name: codegen
+name: farrah gi) pancho
 jobs:
   discovery:
     # As of November 2023, it returns 269 service names.
